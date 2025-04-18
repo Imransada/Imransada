@@ -1,124 +1,182 @@
-<!-- Header Section with Custom Gradient Animation -->
+<!-- Header Section with Dynamic Elements -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imransada/imransada/main/assets/header-banner.svg" width="100%" alt="Imran Sada - Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=180&section=header&text=Imran%20Sada&fontSize=54&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Profile Header"/>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=F7A2DE&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Imran+Sada;Full+Stack+Developer;UI%2FUX+Enthusiast;React+%7C+Node+%7C+Flutter" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- Introduction Section -->
 <p align="center">
-  <strong>Based in Rimi LGA, Katsina State, Nigeria</strong><br>
-  Creating digital experiences that blend beauty with functionality
+  <a href="https://github.com/imransada"><img src="https://komarev.com/ghpvc/?username=imransada&style=for-the-badge&color=3f73e3&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 </p>
 
-<!-- Social Media Badges with Hover Effects -->
+<!-- Social Media Badges -->
 <div align="center">
-  <a href="https://www.tiktok.com/@imran.sada" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100087285213707" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/imransada" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.tiktok.com/@imran.sada?_t=ZM-8vdl65udR4h&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100087285213707"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/imransada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-<!-- Visual Separator -->
-<img src="https://raw.githubusercontent.com/imransada/imransada/main/assets/wave.svg" width="100%" alt="Wave Divider">
-
 <!-- About Me Section -->
-## 🧠 About Me
-
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Coding GIF" />
-
-I'm a **Full Stack Developer** with a passion for creating exceptional digital experiences. My expertise spans across:
-
-- 🎨 **Frontend:** Crafting intuitive and beautiful UIs with React and Flutter
-- 🛠️ **Backend:** Building robust APIs and services with Node.js and Express
-- 🔥 **Database:** Implementing scalable solutions with Firebase and MongoDB
-- 📱 **Mobile:** Developing cross-platform apps with Flutter and React Native
-
-> "I don't just code — I **craft** digital experiences that people love to use."
-
-<!-- Tech Stack Section with Modern Icons -->
-## 🔧 Tech Stack
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40px" alt="About Me"/>
+    <span>About Me</span>
+  </h2>
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F73E3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+from+Katsina%2C+Nigeria;React+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+Flutter+%E2%9D%A4%EF%B8%8F+Firebase;Turning+ideas+into+digital+experiences" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  I'm a passionate developer based in <strong>Rimi LGA, Katsina State, Nigeria</strong> with expertise in creating both beautiful user interfaces and robust backend systems. I love building solutions that solve real-world problems through clean, efficient code and thoughtful design.
+</p>
+
+<!-- Tech Stack Section with Creative Layout -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" alt="Tech Stack"/>
+    <span>Tech Stack</span>
+  </h2>
+</div>
+
+<div align="center">
+  <!-- Frontend -->
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  </p>
+  
+  <!-- Backend -->
+  <h3>Backend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </p>
+  
+  <!-- Tools -->
+  <h3>Tools & Services</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  </p>
 </div>
 
 <!-- Featured Projects Section with Cards -->
-## 🚀 Featured Projects
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40px" alt="Projects"/>
+    <span>Featured Projects</span>
+  </h2>
+</div>
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/imransada/imransada/main/assets/project-vtu.svg" width="49%" alt="VTU Website" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">VTU Website</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Projects/vpay_mock.png" width="100%" alt="VTU Preview"/>
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Code-3f73e3?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+            </a>
+          </p>
+          <p>A comprehensive VTU platform built with <strong>React</strong> for purchasing data, airtime, electricity tokens, and more with a seamless payment integration.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Student Learning App</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Projects/editor.png" width="100%" alt="Learning App Preview"/>
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Code-3f73e3?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/App-00C7B7?style=for-the-badge&logo=google-play&logoColor=white" alt="App"/>
+            </a>
+          </p>
+          <p>A cross-platform mobile app built with <strong>Flutter</strong> designed to help students learn with interactive quizzes, flashcards, and AI-powered tutoring.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Stats"/>
+    <span>GitHub Analytics</span>
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imransada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imransada&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imransada&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imransada&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/dZcLfT0GwnGxc3wJKm/giphy.gif" width="40px" alt="Quote"/>
+    <span>Developer Philosophy</span>
+  </h2>
+</div>
+
+<div align="center">
+  <blockquote>
+    <p>"I don't just write code — I craft digital experiences that solve problems and delight users. Every line of code has a purpose, every design choice has a reason."</p>
+  </blockquote>
+</div>
+
+<!-- Let's Connect Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" alt="Connect"/>
+    <span>Let's Connect & Collaborate!</span>
+  </h2>
+</div>
+
+<p align="center">
+  I'm always open to interesting projects and collaborations. Feel free to reach out if you have an idea or just want to chat about tech!
+</p>
+
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/imransada/imransada/main/assets/project-learning.svg" width="49%" alt="Student Learning App" />
+  <a href="https://www.linkedin.com/in/imransada">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
-### VTU Website
-A comprehensive VTU platform built with React and Firebase that enables users to purchase data, airtime, and electricity tokens seamlessly.
-
-**Technologies:** React, Firebase, Tailwind CSS, Payment Gateway Integration
-
-### Student Learning App
-An intuitive, cross-platform educational app developed with Flutter, designed to enhance students' learning experience through quizzes, flashcards, and AI-powered tutoring.
-
-**Technologies:** Flutter, Firebase, Node.js, Machine Learning
-
-<!-- GitHub Stats Section with Modern Styling -->
-## 📊 GitHub Stats
-
+<!-- Footer -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imransada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=FF9BE7&text_color=A9CBED&title_color=FF9BE7" width="49%" alt="Imran's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imransada&theme=tokyonight&hide_border=true&background=1A1B27&ring=FF9BE7&fire=FF9BE7&currStreakLabel=FF9BE7" width="49%" alt="Imran's GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=120&section=footer" width="100%" alt="Footer"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imransada&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=FF9BE7" width="58%" alt="Imran's Most Used Languages" />
-</div>
-
-<!-- Process Section -->
-## 🌟 My Design & Development Process
-
-1. **Discovery** - Understanding user needs and business goals
-2. **Design** - Creating intuitive, accessible, and appealing interfaces
-3. **Development** - Writing clean, efficient, and maintainable code
-4. **Delivery** - Deploying robust solutions that exceed expectations
-5. **Iteration** - Continuous improvement based on feedback and metrics
-
-<!-- Footer Section -->
-<img src="https://raw.githubusercontent.com/imransada/imransada/main/assets/footer.svg" width="100%" alt="Footer" />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imransada&style=flat-square&color=FF9BE7" alt="Profile Views" />
-</div>
-
-<!-- 
-Note: For the full effect, create these svg files in your GitHub repository:
-- header-banner.svg - A gradient header with your name
-- wave.svg - A wave divider for visual separation
-- project-vtu.svg - A card-like image for your VTU project
-- project-learning.svg - A card-like image for your Learning App project
-- footer.svg - A footer banner with your tagline
--->
