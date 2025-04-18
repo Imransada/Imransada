@@ -1,5 +1,5 @@
 <!-- Profile banner -->
-<img src="https://images.app.goo.gl/M56C8t3FTY5jeQzA8" width="100%" />
+<img src="https://giphy.com/gifs/Perspectief-camas-perspectief-it-zkRQ24mPZ1HvHj9pZ6" width="100%" />
 
 <!-- Typing intro -->
 <h1 align="center">
