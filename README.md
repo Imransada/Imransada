@@ -1,5 +1,4 @@
-<!-- Profile banner -->
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
+
 
 <!-- Typing intro -->
 <h1 align="center">
@@ -20,6 +19,9 @@
   </a>
 </p>
 
+
+<!-- Profile banner -->
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
 ---
 
 ## 🧠 About Me
