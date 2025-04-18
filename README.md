@@ -1,5 +1,5 @@
 <!-- Profile banner -->
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" />
+<img src="https://images.app.goo.gl/M56C8t3FTY5jeQzA8" width="100%" />
 
 <!-- Typing intro -->
 <h1 align="center">
