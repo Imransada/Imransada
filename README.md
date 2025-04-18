@@ -7,7 +7,7 @@ From Rimi LGA, Katsina State
 
 ### 🚀 Tech Stack
 - **Frontend:** React, Tailwind CSS, Material UI (MUI)
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, mysql, phyton
 - **Mobile:** Flutter, React Native
 - **Tools:** Firebase, GitHub, Myself
 
