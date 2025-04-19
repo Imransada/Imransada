@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F73E3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+In+%2C+Nigeria;React+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+Flutter+%E2%9D%A4%EF%B8%8F+Firebase;Turning+ideas+into+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F73E3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+In+Nigeria;React+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+Flutter+%E2%9D%A4%EF%B8%8F+Firebase;Turning+ideas+into+digital+experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
